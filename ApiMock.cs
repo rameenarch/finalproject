@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace PlaywrightTesting
 {
-    internal class ApiMock
+    
+    public class ApiMock
     {
+        public async Task ApiMockingExample()
+        {
+
+        }
+
+
     }
 }
